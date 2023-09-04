@@ -1,8 +1,10 @@
 
-<div align="left">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+eu+sou+Guilherme Gonçalves!+Bem-vindo!+%F0%9F%91%8B%F0%9F%91%8B;Hi%2C+I'm+Guilherme Gonçalves!+Welcome!+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
+ <br>
+ 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://logiclifters.org/assets/coding-aa061567.png">
 
  <Br>
@@ -19,7 +21,7 @@
 <Br>  
 
 ---
-<br> <br> <br>
+<br> <br>
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
