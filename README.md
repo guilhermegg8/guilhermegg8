@@ -6,7 +6,7 @@
  <br>
  
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://logiclifters.org/assets/coding-aa061567.png">
-
+<br>
  <Br>
 <Br>
 <div>
