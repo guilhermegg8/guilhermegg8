@@ -16,13 +16,11 @@
   </ul>
 </div>
 <br>
-<Br>  
-<br>
-<br> <br>
+
 
 ---
 
-<br> 
+<br>  <br> <br>
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
