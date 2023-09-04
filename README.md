@@ -20,12 +20,9 @@
 
 ---
 
-<br>  <br> <br>
-
-<br> <br>
-<br> <br>
+<br>  
 <h2 align="left">GitHub Stats</h2>
-
+<br> <br><br> <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=guilhermegg8" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=550&langs_count=10&theme=github_dark&hide_border=false&username=guilhermegg8" height="175" alt="languages graph"  />
