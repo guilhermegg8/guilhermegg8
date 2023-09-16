@@ -21,7 +21,7 @@
 <br>
 
 <br>  <br> <br>
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left" >GitHub Stats</h2>
 <br> <br>
 
 <div align="center">
