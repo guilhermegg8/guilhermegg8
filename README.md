@@ -8,8 +8,9 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 **Técnico em Informática** pelo Senac São Miguel
+- 🤖 **Pós-graduação em Inteligência Artificial** pelo Senac
 - 💻 **FATEC-ZL** | Desenvolvimento de Software Multiplataforma
+- 🎓 **Técnico em Informática** pelo Senac São Miguel
 - 🎯 Buscando sempre evoluir e aprender novas tecnologias
 
 ---
@@ -27,13 +28,16 @@
 
 ---
 
-### 📊 GitHub Stats & Commits
+### 📊 GitHub Stats & Contribuições
 
 <div align="center">
+  <!-- Gráfico de Contribuições estilo Snake / Grid de Commits -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegg8&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="95%" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegg8&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermegg8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermegg8&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegg8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegg8&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
 </div>
 
 ---
