@@ -28,16 +28,20 @@
 
 ---
 
-### 📊 GitHub Stats & Contribuições
+### 🐍 Snake de Contribuições & Commits
 
 <div align="center">
-  <!-- Gráfico de Contribuições estilo Snake / Grid de Commits -->
+  <img src="https://raw.githubusercontent.com/guilhermegg8/guilhermegg8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
+
+### 📊 GitHub Stats & Sequência
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegg8&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="175" />
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegg8&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="95%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegg8&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegg8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegg8&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
 </div>
 
 ---
